@@ -1,4 +1,4 @@
-# Awesome Polymarket Bots — 101 Bots Compared & Vetted (2026) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Polymarket Bots — 101 Bots Compared & Vetted (2026)
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
