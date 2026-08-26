@@ -4,7 +4,7 @@
 
 **101 bots & platforms across 12 categories · updated Aug 26, 2026 · maintained by [POLBOTS](https://polbots.com/bots)**
 
-Each entry links the bot's own site, plus a `review` link to its catalog page with screenshots, pricing and vetting notes. `open-source` marks bots whose full source is public under an open licence — see the [open-source shortlist](https://polbots.com/bots/open-source). Descriptions are the first line of each catalog review; performance figures are whatever the author publishes and are not independently verified.
+Each entry links the bot's own site, plus a `review` link to its catalog page with screenshots, pricing and vetting notes. ⭐ marks the catalog's current hand-picked Editor's Choice. `open-source` marks bots whose full source is public under an open licence — see the [open-source shortlist](https://polbots.com/bots/open-source). Descriptions are the first line of each catalog review; performance figures are whatever the author publishes and are not independently verified.
 
 ## Contents
 
@@ -61,11 +61,11 @@ Also: [How we vet](#how-we-vet) · [Declined: landing-page networks](#declined-l
 
 *Bots focused on crypto price and event markets, from BTC targets to protocol milestones.*
 
+- ⭐ [PolymTradeBot](https://polymtradebot.com) `Editor's Choice` — Automated Python bot for Polymarket's 5- and 15-minute Bitcoin & Ethereum up/down markets. · [review](https://polbots.com/bot/polymtradebot)
 - [Bobot](https://bobot.live) — Polymarket trading bot focused on signal quality. · [review](https://polbots.com/bot/bobot)
 - [BTC 15-Min Bot](https://github.com/aulekator/Polymarket-BTC-15-Minute-Trading-Bot) `open-source` — Open-source Python bot for Polymarket's 15-minute Bitcoin up/down markets. · [review](https://polbots.com/bot/polymarket-btc-15-minute-bot)
 - [Infinity](https://infinity-terminal.xyz/) — A full trading terminal inside Telegram, covering two venues at once: Polymarket prediction markets on the live CLOB order book, and Hyperliquid perps and spot — plus copy-trading on top. · [review](https://polbots.com/bot/infinity)
 - [PolymarketAlpha](https://www.polymarketalpha.space/) — Autonomous AI agents that scan, analyze and execute on Polymarket across sports, crypto (5m, 15m, 1h) and weather markets — no manual intervention. · [review](https://polbots.com/bot/polymarketalpha)
-- [PolymTradeBot](https://polymtradebot.com) — Automated Python bot for Polymarket's 5- and 15-minute Bitcoin & Ethereum up/down markets. · [review](https://polbots.com/bot/polymtradebot)
 - [PolySigma](https://polysigma.io) — Premium strategy course and live signals terminal for Polymarket's BTC 15-minute markets. · [review](https://polbots.com/bot/polysigma)
 - [Uruguabot](https://uruguabot.com) — Self-hosted Python bot for Polymarket's 5-minute BTC and ETH up/down markets, sold with its complete live trading record — losses included. · [review](https://polbots.com/bot/uruguabot)
 
