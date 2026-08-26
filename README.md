@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com/bots"><img src="https://polbots.com/bots/opengraph-image" alt="Polymarket Bots — 104 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com/bots"><img src="https://polbots.com/bots/opengraph-image" alt="Polymarket Bots — 105 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 104 Bots Compared & Vetted (2026)
+# Polymarket Bots — 105 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-104-1f6feb?style=flat-square)](https://polbots.com/bots)
+[![Bots](https://img.shields.io/badge/bots-105-1f6feb?style=flat-square)](https://polbots.com/bots)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Aug%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -22,12 +22,12 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 ## Contents
 
 - ⚖️ [Arbitrage](#️-arbitrage) · 7
-- 👥 [Copy Trading](#-copy-trading) · 23
+- 👥 [Copy Trading](#-copy-trading) · 24
 - 🪙 [Crypto Markets](#-crypto-markets) · 10
 - 🛡️ [Hedging](#️-hedging) · 2
 - 📊 [Market Making](#-market-making) · 5
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 56
+- 🧰 [Platforms & Tools](#-platforms--tools) · 57
 - 🗳️ [Politics & Elections](#️-politics--elections) · 4
 - ⚡ [Scalping](#-scalping) · 5
 - 📰 [Sentiment / News](#-sentiment--news) · 12
@@ -62,6 +62,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/infinity"><img src="https://polbots.com/bots/infinity.webp" alt="Infinity — Polymarket bot" width="130"></a> | **[Infinity](https://infinity-terminal.xyz/)**<br>A full trading terminal inside Telegram, covering two venues at once: Polymarket prediction markets on the live CLOB order book, and Hyperliquid perps and spot — plus copy-trading on top. | [review →](https://polbots.com/bot/infinity) |
 | <a href="https://polbots.com/bot/merlin"><img src="https://polbots.com/bots/merlin.webp" alt="Merlin — Polymarket bot" width="130"></a> | **[Merlin](https://merlin.trade)**<br>Trader analytics and copy trading for Polymarket. | [review →](https://polbots.com/bot/merlin) |
 | <a href="https://polbots.com/bot/overdog"><img src="https://polbots.com/bots/overdog.webp" alt="Overdog — Polymarket bot" width="130"></a> | **[Overdog](https://t.me/overdog_bot)**<br>Telegram bot that shows smart-money positioning on every Polymarket event — which side the profitable wallets are on and how much capital backs each outcome — then lets you trade from the same screen. | [review →](https://polbots.com/bot/overdog) |
+| <a href="https://polbots.com/bot/overround"><img src="https://polbots.com/bots/overround.pro.webp" alt="OVERROUND — Polymarket bot" width="130"></a> | **[OVERROUND](https://www.overround.pro)**<br>Analytics platform that ranks public Polymarket wallets by skill-adjusted accuracy instead of profit. | [review →](https://polbots.com/bot/overround) |
 | <a href="https://polbots.com/bot/polyalerthub"><img src="https://polbots.com/bots/polyalerthub.webp" alt="PolyAlertHub — Polymarket bot" width="130"></a> | **[PolyAlertHub](https://polyalerthub.com)**<br>Real-time intelligence and alerting for Polymarket — no wallet connection needed. | [review →](https://polbots.com/bot/polyalerthub) |
 | <a href="https://polbots.com/bot/polybot"><img src="https://polbots.com/bots/polybot.trading.webp" alt="PolyBot — Polymarket bot" width="130"></a> | **[PolyBot](https://polybot.trading)**<br>Telegram trading bot for Polymarket. | [review →](https://polbots.com/bot/polybot) |
 | <a href="https://polbots.com/bot/polyburg"><img src="https://polbots.com/bots/polyburg.webp" alt="Polyburg — Polymarket bot" width="130"></a> | **[Polyburg](https://polyburg.com)**<br>Smart-wallet tracking terminal and official Polymarket build partner. | [review →](https://polbots.com/bot/polyburg) |
@@ -157,6 +158,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/layerhub"><img src="https://polbots.com/bots/layerhub.webp" alt="LayerHub — Polymarket bot" width="130"></a> | **[LayerHub](https://layerhub.xyz)**<br>Web3 analytics platform that tracks on-chain activity across 13+ chains — including Polymarket among its covered protocols. | [review →](https://polbots.com/bot/layerhub) |
 | <a href="https://polbots.com/bot/markium-pro"><img src="https://polbots.com/bots/markiumpro.webp" alt="Markium Pro — Polymarket bot" width="130"></a> | **[Markium Pro](https://markiumpro.com)**<br>Data analytics and trading platform for prediction markets. | [review →](https://polbots.com/bot/markium-pro) |
 | <a href="https://polbots.com/bot/okbet"><img src="https://polbots.com/bots/tryokbet.webp" alt="OKbet — Polymarket bot" width="130"></a> | **[OKbet](https://tryokbet.com)**<br>Prediction-market aggregator across Polymarket, Kalshi, Limitless and Opinion. | [review →](https://polbots.com/bot/okbet) |
+| <a href="https://polbots.com/bot/overround"><img src="https://polbots.com/bots/overround.pro.webp" alt="OVERROUND — Polymarket bot" width="130"></a> | **[OVERROUND](https://www.overround.pro)**<br>Analytics platform that ranks public Polymarket wallets by skill-adjusted accuracy instead of profit. | [review →](https://polbots.com/bot/overround) |
 | <a href="https://polbots.com/bot/pillarlab"><img src="https://polbots.com/bots/pillarlabai.webp" alt="PillarLab — Polymarket bot" width="130"></a> | **[PillarLab](https://pillarlabai.com)**<br>AI market analyzer for Kalshi and Polymarket. | [review →](https://polbots.com/bot/pillarlab) |
 | <a href="https://polbots.com/bot/pmf"><img src="https://polbots.com/bots/pmf.finance.webp" alt="PMF — Polymarket bot" width="130"></a> | **[PMF](https://pmf.finance)**<br>Prediction Market Funds — an early-stage product that lets you invest in trends instead of betting on individual beliefs, packaging prediction-market exposure into fund-style positions. | [review →](https://polbots.com/bot/pmf) |
 | <a href="https://polbots.com/bot/polyhelper"><img src="https://polbots.com/bots/polyhelper.io.webp" alt="Poly Helper — Polymarket bot" width="130"></a> | **[Poly Helper](https://polyhelper.io)**<br>Browser extension that upgrades Polymarket without leaving its interface — 25+ context panels: live crypto and stock stats, sports intel with live scores, bookmaker odds comparison across 19 sportsbooks with automatic edge detection, polls… | [review →](https://polbots.com/bot/polyhelper) |
