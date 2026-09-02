@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com/bots"><img src="https://polbots.com/bots/opengraph-image" alt="Polymarket Bots — 107 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 107 bots compared on POLBOTS" width="100%"></a>
 </div>
 
 # Polymarket Bots — 107 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-107-1f6feb?style=flat-square)](https://polbots.com/bots)
+[![Bots](https://img.shields.io/badge/bots-107-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Sep%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
