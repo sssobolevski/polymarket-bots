@@ -12,7 +12,7 @@
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
-Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Sep 17, 2026.
+Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Sep 20, 2026.
 
 <div align="center">
   <a href="https://polbots.com/bot/polymtradebot"><img src="https://polbots.com/bots/polymtradebot-video-poster.webp" alt="PolymTradeBot — Editor's Choice: Polymarket bot demo" width="640"></a>
@@ -310,7 +310,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | Preview | Bot | Review |
 |:---:|:---|:---:|
 | <a href="https://polbots.com/bot/pillarlab"><img src="https://polbots.com/bots/pillarlabai.webp" alt="PillarLab — Polymarket bot" width="130"></a> | **[PillarLab](https://pillarlabai.com)**<br>AI market analyzer for Kalshi and Polymarket. | [review →](https://polbots.com/bot/pillarlab) |
-| <a href="https://polbots.com/bot/predict-and-profit"><img src="https://polbots.com/bots/predictandprofit.webp" alt="Predict & Profit — Polymarket bot" width="130"></a> | **[Predict & Profit](https://predictandprofit.gumroad.com/l/predict-and-profit)**<br>Automated Python trading system for Kalshi weather and inflation markets that hunts mispriced binary contracts. | [review →](https://polbots.com/bot/predict-and-profit) |
+| <a href="https://polbots.com/bot/predict-and-profit"><img src="https://polbots.com/bots/predictandprofit.io.webp" alt="Predict & Profit — Polymarket bot" width="130"></a> | **[Predict & Profit](https://predictandprofit.io)**<br>Self-hosted Python suite for Kalshi weather and inflation markets — two bots, a monitoring dashboard and one shared risk engine, installed and managed as a single system. | [review →](https://polbots.com/bot/predict-and-profit) |
 
 ## How we vet
 
