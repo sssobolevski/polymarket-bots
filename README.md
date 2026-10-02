@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 122 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 123 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 122 Bots Compared & Vetted (2026)
+# Polymarket Bots — 123 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-122-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-123-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -12,7 +12,7 @@
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
-Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 1, 2026.
+Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 2, 2026.
 
 <div align="center">
   <a href="https://polbots.com/bot/polymtradebot"><img src="https://polbots.com/bots/polymtradebot-video-poster.webp" alt="PolymTradeBot — Editor's Choice: Polymarket bot demo" width="640"></a>
@@ -23,7 +23,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 
 - ⚖️ [Arbitrage](#️-arbitrage) · 11
 - 👥 [Copy Trading](#-copy-trading) · 31
-- 🪙 [Crypto Markets](#-crypto-markets) · 14
+- 🪙 [Crypto Markets](#-crypto-markets) · 15
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 7
 - 🚀 [Momentum](#-momentum) · 6
@@ -105,6 +105,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | — | **[BTC 15-Min Bot](https://github.com/aulekator/Polymarket-BTC-15-Minute-Trading-Bot)** `open-source`<br>Open-source Python bot for Polymarket's 15-minute Bitcoin up/down markets. | [review →](https://polbots.com/bot/polymarket-btc-15-minute-bot) |
 | <a href="https://polbots.com/bot/cloddsbot"><img src="https://polbots.com/bots/cloddsbot.com.webp" alt="CloddsBot — Polymarket bot" width="130"></a> | **[CloddsBot](https://www.cloddsbot.com)** `open-source`<br>Open-source AI trading agent that runs on your own machine and takes orders in natural language over Telegram, Discord, WebChat and eighteen other channels. | [review →](https://polbots.com/bot/cloddsbot) |
 | <a href="https://polbots.com/bot/infinity"><img src="https://polbots.com/bots/infinity.webp" alt="Infinity — Polymarket bot" width="130"></a> | **[Infinity](https://infinity-terminal.xyz/)**<br>A full trading terminal inside Telegram, covering two venues at once: Polymarket prediction markets on the live CLOB order book, and Hyperliquid perps and spot — plus copy-trading on top. | [review →](https://polbots.com/bot/infinity) |
+| <a href="https://polbots.com/bot/norm1e69"><img src="https://polbots.com/bots/normiepoly.com.webp" alt="norm1e69 — Polymarket bot" width="130"></a> | **[norm1e69](https://normiepoly.com)**<br>Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for a single payment and named after the public Polymarket account its seller points to as proof. | [review →](https://polbots.com/bot/norm1e69) |
 | <a href="https://polbots.com/bot/poly-sniper"><img src="https://polbots.com/bots/poly-sniper.com.webp" alt="Poly Sniper — Polymarket bot" width="130"></a> | **[Poly Sniper](https://www.poly-sniper.com)**<br>Four self-hosted bots for Polymarket's 15-minute crypto windows — BTC, ETH, SOL and XRP — sold per coin and capped at fifty seats each. | [review →](https://polbots.com/bot/poly-sniper) |
 | <a href="https://polbots.com/bot/polymarketalpha"><img src="https://polbots.com/bots/polymarketalpha.webp" alt="PolymarketAlpha — Polymarket bot" width="130"></a> | **[PolymarketAlpha](https://www.polymarketalpha.space/)**<br>Autonomous AI agents that scan, analyze and execute on Polymarket across sports, crypto (5m, 15m, 1h) and weather markets — no manual intervention. | [review →](https://polbots.com/bot/polymarketalpha) |
 | <a href="https://polbots.com/bot/polymtrade"><img src="https://polbots.com/bots/polym.trade.webp" alt="Polymtrade — Polymarket bot" width="130"></a> | **[Polymtrade](https://polym.trade)**<br>Dedicated trading terminal for Polymarket. | [review →](https://polbots.com/bot/polymtrade) |
