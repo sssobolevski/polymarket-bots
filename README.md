@@ -15,7 +15,7 @@
 Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 8, 2026.
 
 <div align="center">
-  <a href="https://polbots.com/bot/norm1e69"><img src="https://polbots.com/bots/normiepoly.com.webp" alt="norm1e69 — Editor's Choice: Polymarket bot demo" width="640"></a>
+  <a href="https://polbots.com/bot/norm1e69"><img src="https://polbots.com/bots/norm1e69-video-poster.webp" alt="norm1e69 — Editor's Choice: Polymarket bot demo" width="640"></a>
   <p>⭐ <b>Editor's Choice: <a href="https://normiepoly.com">norm1e69</a></b> — Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for a single payment and named after the public Polymarket accoun…<br><a href="https://polbots.com/bot/norm1e69"><b>Watch the demo & read the review →</b></a></p>
 </div>
 
