@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 126 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 127 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 126 Bots Compared & Vetted (2026)
+# Polymarket Bots — 127 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-126-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-127-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -22,7 +22,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 ## Contents
 
 - ⚖️ [Arbitrage](#️-arbitrage) · 11
-- 👥 [Copy Trading](#-copy-trading) · 32
+- 👥 [Copy Trading](#-copy-trading) · 33
 - 🪙 [Crypto Markets](#-crypto-markets) · 16
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 8
@@ -33,7 +33,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 - 📰 [Sentiment / News](#-sentiment--news) · 15
 - 🎯 [Sniping](#-sniping) · 4
 - 🏆 [Sports Trading](#-sports-trading) · 4
-- ✈️ [Telegram](#️-telegram) · 19
+- ✈️ [Telegram](#️-telegram) · 20
 - 🌦️ [Weather Markets](#️-weather-markets) · 4
 
 Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#declined-landing-page-networks) · 🤝 [Contributing](#contributing)
@@ -63,6 +63,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | Preview | Bot | Review |
 |:---:|:---|:---:|
 | <a href="https://polbots.com/bot/cloddsbot"><img src="https://polbots.com/bots/cloddsbot.com.webp" alt="CloddsBot — Polymarket bot" width="130"></a> | **[CloddsBot](https://www.cloddsbot.com)** `open-source`<br>Open-source AI trading agent that runs on your own machine and takes orders in natural language over Telegram, Discord, WebChat and eighteen other channels. | [review →](https://polbots.com/bot/cloddsbot) |
+| <a href="https://polbots.com/bot/copyodds"><img src="https://polbots.com/bots/copyodds.io.webp" alt="CopyOdds — Polymarket bot" width="130"></a> | **[CopyOdds](https://app.copyodds.io)**<br>Copy trading for Polymarket in the browser and as a Telegram Mini App. | [review →](https://polbots.com/bot/copyodds) |
 | <a href="https://polbots.com/bot/infinity"><img src="https://polbots.com/bots/infinity.webp" alt="Infinity — Polymarket bot" width="130"></a> | **[Infinity](https://infinity-terminal.xyz/)**<br>A full trading terminal inside Telegram, covering two venues at once: Polymarket prediction markets on the live CLOB order book, and Hyperliquid perps and spot — plus copy-trading on top. | [review →](https://polbots.com/bot/infinity) |
 | <a href="https://polbots.com/bot/kreo"><img src="https://polbots.com/bots/kreo.app.webp" alt="Kreo — Polymarket bot" width="130"></a> | **[Kreo](https://kreo.app)**<br>Telegram bots for Polymarket and Kalshi built around copy trading. | [review →](https://polbots.com/bot/kreo) |
 | <a href="https://polbots.com/bot/merlin"><img src="https://polbots.com/bots/merlin.webp" alt="Merlin — Polymarket bot" width="130"></a> | **[Merlin](https://merlin.trade)**<br>Trader analytics and copy trading for Polymarket. | [review →](https://polbots.com/bot/merlin) |
@@ -306,6 +307,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | Preview | Bot | Review |
 |:---:|:---|:---:|
 | <a href="https://polbots.com/bot/cloddsbot"><img src="https://polbots.com/bots/cloddsbot.com.webp" alt="CloddsBot — Polymarket bot" width="130"></a> | **[CloddsBot](https://www.cloddsbot.com)** `open-source`<br>Open-source AI trading agent that runs on your own machine and takes orders in natural language over Telegram, Discord, WebChat and eighteen other channels. | [review →](https://polbots.com/bot/cloddsbot) |
+| <a href="https://polbots.com/bot/copyodds"><img src="https://polbots.com/bots/copyodds.io.webp" alt="CopyOdds — Polymarket bot" width="130"></a> | **[CopyOdds](https://app.copyodds.io)**<br>Copy trading for Polymarket in the browser and as a Telegram Mini App. | [review →](https://polbots.com/bot/copyodds) |
 | <a href="https://polbots.com/bot/infinity"><img src="https://polbots.com/bots/infinity.webp" alt="Infinity — Polymarket bot" width="130"></a> | **[Infinity](https://infinity-terminal.xyz/)**<br>A full trading terminal inside Telegram, covering two venues at once: Polymarket prediction markets on the live CLOB order book, and Hyperliquid perps and spot — plus copy-trading on top. | [review →](https://polbots.com/bot/infinity) |
 | <a href="https://polbots.com/bot/kreo"><img src="https://polbots.com/bots/kreo.app.webp" alt="Kreo — Polymarket bot" width="130"></a> | **[Kreo](https://kreo.app)**<br>Telegram bots for Polymarket and Kalshi built around copy trading. | [review →](https://polbots.com/bot/kreo) |
 | <a href="https://polbots.com/bot/merlin"><img src="https://polbots.com/bots/merlin.webp" alt="Merlin — Polymarket bot" width="130"></a> | **[Merlin](https://merlin.trade)**<br>Trader analytics and copy trading for Polymarket. | [review →](https://polbots.com/bot/merlin) |
