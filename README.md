@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 127 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 128 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 127 Bots Compared & Vetted (2026)
+# Polymarket Bots — 128 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-127-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-128-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -15,15 +15,15 @@
 Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 20, 2026.
 
 <div align="center">
-  <a href="https://polbots.com/bot/norm1e69"><img src="https://polbots.com/bots/norm1e69-video-poster.webp" alt="norm1e69 — Editor's Choice: Polymarket bot demo" width="640"></a>
-  <p>⭐ <b>Editor's Choice: <a href="https://normiepoly.com">norm1e69</a></b> — Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for a single payment and named after the public Polymarket accoun…<br><a href="https://polbots.com/bot/norm1e69"><b>Watch the demo & read the review →</b></a></p>
+  <a href="https://polbots.com/bot/goodfallen"><img src="https://polbots.com/bots/goodfallen.com.webp" alt="GoodFallen — Editor's Choice: Polymarket bot demo" width="640"></a>
+  <p>⭐ <b>Editor's Choice: <a href="https://goodfallen.com">GoodFallen</a></b> — Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for $399 once and backed by the public Polymarket account its sel…<br><a href="https://polbots.com/bot/goodfallen"><b>Watch the demo & read the review →</b></a></p>
 </div>
 
 ## Contents
 
 - ⚖️ [Arbitrage](#️-arbitrage) · 11
 - 👥 [Copy Trading](#-copy-trading) · 33
-- 🪙 [Crypto Markets](#-crypto-markets) · 16
+- 🪙 [Crypto Markets](#-crypto-markets) · 17
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 8
 - 🚀 [Momentum](#-momentum) · 6
@@ -102,6 +102,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 
 | Preview | Bot | Review |
 |:---:|:---|:---:|
+| <a href="https://polbots.com/bot/goodfallen"><img src="https://polbots.com/bots/goodfallen.com.webp" alt="GoodFallen — Polymarket bot" width="130"></a> | ⭐ **[GoodFallen](https://goodfallen.com)** `Editor's Choice`<br>Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for $399 once and backed by the public Polymarket account its seller runs it on, @GoodFallen. | [review →](https://polbots.com/bot/goodfallen) |
 | <a href="https://polbots.com/bot/norm1e69"><img src="https://polbots.com/bots/normiepoly.com.webp" alt="norm1e69 — Polymarket bot" width="130"></a> | ⭐ **[norm1e69](https://normiepoly.com)** `Editor's Choice`<br>Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for a single payment and named after the public Polymarket account its seller points to as proof. | [review →](https://polbots.com/bot/norm1e69) |
 | <a href="https://polbots.com/bot/polymtradebot"><img src="https://polbots.com/bots/polymtradebot.webp" alt="PolymTradeBot — Polymarket bot" width="130"></a> | ⭐ **[PolymTradeBot](https://polymtradebot.com)** `Editor's Choice`<br>Automated Python bot for Polymarket's 5- and 15-minute Bitcoin & Ethereum up/down markets. | [review →](https://polbots.com/bot/polymtradebot) |
 | <a href="https://polbots.com/bot/bobot"><img src="https://polbots.com/bots/bobot.live.webp" alt="Bobot — Polymarket bot" width="130"></a> | **[Bobot](https://bobot.live)**<br>Polymarket trading bot focused on signal quality. | [review →](https://polbots.com/bot/bobot) |
