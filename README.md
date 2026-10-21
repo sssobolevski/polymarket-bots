@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 124 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 123 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 124 Bots Compared & Vetted (2026)
+# Polymarket Bots — 123 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-124-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-123-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -12,7 +12,7 @@
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
-Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 20, 2026.
+Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 21, 2026.
 
 <div align="center">
   <a href="https://polbots.com/bot/goodfallen"><img src="https://polbots.com/bots/goodfallen.com.webp" alt="GoodFallen — Editor's Choice: Polymarket bot demo" width="640"></a>
@@ -27,7 +27,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 8
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 65
+- 🧰 [Platforms & Tools](#-platforms--tools) · 64
 - 🗳️ [Politics & Elections](#️-politics--elections) · 5
 - ⚡ [Scalping](#-scalping) · 5
 - 📰 [Sentiment / News](#-sentiment--news) · 14
@@ -164,7 +164,6 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 
 | Preview | Bot | Review |
 |:---:|:---|:---:|
-| <a href="https://polbots.com/bot/up-or-down-btc"><img src="https://polbots.com/bots/updownbtc.com.webp" alt="Up or Down BTC — Polymarket bot" width="130"></a> | ⭐ **[Up or Down BTC](https://updownbtc.com)** `Editor's Choice`<br>Call Bitcoin up or down and find out in five minutes. | [review →](https://polbots.com/bot/up-or-down-btc) |
 | <a href="https://polbots.com/bot/0xinsider"><img src="https://polbots.com/bots/0xinsider.com.webp" alt="0xInsider — Polymarket bot" width="130"></a> | **[0xInsider](https://0xinsider.com)**<br>Polymarket analytics for sports and esports: wallets graded S to F on settled P&L, both sides of every game, large trades with the grade behind each, and a REST API and MCP server. | [review →](https://polbots.com/bot/0xinsider) |
 | <a href="https://polbots.com/bot/airavat"><img src="https://polbots.com/bots/airavat.webp" alt="Airavat — Polymarket bot" width="130"></a> | **[Airavat](https://www.airavat.xyz)**<br>Capital allocation and portfolio construction for prediction markets. | [review →](https://polbots.com/bot/airavat) |
 | <a href="https://polbots.com/bot/almanac"><img src="https://polbots.com/bots/almanac.market.webp" alt="Almanac — Polymarket bot" width="130"></a> | **[Almanac](https://almanac.market)**<br>Prediction market that pays for being right early. | [review →](https://polbots.com/bot/almanac) |
