@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 124 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 125 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 124 Bots Compared & Vetted (2026)
+# Polymarket Bots — 125 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-124-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-125-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -27,7 +27,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 8
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 64
+- 🧰 [Platforms & Tools](#-platforms--tools) · 65
 - 🗳️ [Politics & Elections](#️-politics--elections) · 5
 - ⚡ [Scalping](#-scalping) · 5
 - 📰 [Sentiment / News](#-sentiment--news) · 14
@@ -174,6 +174,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/betmoar"><img src="https://polbots.com/bots/betmoar.fun.webp" alt="Betmoar — Polymarket bot" width="130"></a> | **[Betmoar](https://www.betmoar.fun)**<br>Web trading terminal and Discord bot on top of Polymarket, and the largest third-party interface by Polymarket's own count: rank 1 on the Builders leaderboard, with $2.2B attributed since the program began in October 2025, $137M in August… | [review →](https://polbots.com/bot/betmoar) |
 | <a href="https://polbots.com/bot/boosted-trading"><img src="https://polbots.com/bots/boosted.trading.webp" alt="Boosted Trading — Polymarket bot" width="130"></a> | **[Boosted Trading](https://boosted.trading)**<br>A trading operating system for independent traders. | [review →](https://polbots.com/bot/boosted-trading) |
 | <a href="https://polbots.com/bot/bullpen"><img src="https://polbots.com/bots/bullpen.webp" alt="Bullpen — Polymarket bot" width="130"></a> | **[Bullpen](https://bullpen.fi)**<br>All-in-one non-custodial trading app for tokens, perpetual futures and prediction markets in one interface. | [review →](https://polbots.com/bot/bullpen) |
+| <a href="https://polbots.com/bot/chironus"><img src="https://polbots.com/bots/chironus.com.webp" alt="Chironus — Polymarket bot" width="130"></a> | **[Chironus](https://chironus.com)**<br>Free research and practice site for prediction markets. | [review →](https://polbots.com/bot/chironus) |
 | <a href="https://polbots.com/bot/climate-sight"><img src="https://polbots.com/bots/climatesight.webp" alt="Climate Sight — Polymarket bot" width="130"></a> | **[Climate Sight](https://www.climatesight.app)**<br>Weather analytics for climate prediction markets. | [review →](https://polbots.com/bot/climate-sight) |
 | <a href="https://polbots.com/bot/dome"><img src="https://polbots.com/bots/domeapi.webp" alt="Dome — Polymarket bot" width="130"></a> | **[Dome](https://domeapi.io)**<br>Prediction-market APIs and SDK for developers. | [review →](https://polbots.com/bot/dome) |
 | <a href="https://polbots.com/bot/fireplace"><img src="https://polbots.com/bots/fireplace.webp" alt="Fireplace — Polymarket bot" width="130"></a> | **[Fireplace](https://www.fireplace.gg/discover)**<br>Social news app and pro trading terminal that aggregates prediction markets across Polymarket and Kalshi. | [review →](https://polbots.com/bot/fireplace) |
