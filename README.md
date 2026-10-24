@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 125 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 126 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 125 Bots Compared & Vetted (2026)
+# Polymarket Bots — 126 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-125-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-126-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -27,7 +27,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 8
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 65
+- 🧰 [Platforms & Tools](#-platforms--tools) · 66
 - 🗳️ [Politics & Elections](#️-politics--elections) · 5
 - ⚡ [Scalping](#-scalping) · 5
 - 📰 [Sentiment / News](#-sentiment--news) · 14
@@ -173,6 +173,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/based"><img src="https://polbots.com/bots/based.webp" alt="Based — Polymarket bot" width="130"></a> | **[Based](https://based.one)**<br>Crypto trading and spending platform — 'trade everything, spend everywhere.' Bundles a web/desktop/mobile trading terminal, a dedicated prediction-market section and a crypto-to-fiat Visa card accepted at 90M+ merchants, with agentic 'Base… | [review →](https://polbots.com/bot/based) |
 | <a href="https://polbots.com/bot/betmoar"><img src="https://polbots.com/bots/betmoar.fun.webp" alt="Betmoar — Polymarket bot" width="130"></a> | **[Betmoar](https://www.betmoar.fun)**<br>Web trading terminal and Discord bot on top of Polymarket, and the largest third-party interface by Polymarket's own count: rank 1 on the Builders leaderboard, with $2.2B attributed since the program began in October 2025, $137M in August… | [review →](https://polbots.com/bot/betmoar) |
 | <a href="https://polbots.com/bot/boosted-trading"><img src="https://polbots.com/bots/boosted.trading.webp" alt="Boosted Trading — Polymarket bot" width="130"></a> | **[Boosted Trading](https://boosted.trading)**<br>A trading operating system for independent traders. | [review →](https://polbots.com/bot/boosted-trading) |
+| <a href="https://polbots.com/bot/botscoreboard"><img src="https://polbots.com/bots/botscoreboard.com.webp" alt="BotScoreboard — Polymarket bot" width="130"></a> | **[BotScoreboard](https://botscoreboard.com)**<br>Free public leaderboard of Polymarket wallets that trade like bots, scored from each wallet's own history in Polymarket's public APIs rather than from seller screenshots. | [review →](https://polbots.com/bot/botscoreboard) |
 | <a href="https://polbots.com/bot/bullpen"><img src="https://polbots.com/bots/bullpen.webp" alt="Bullpen — Polymarket bot" width="130"></a> | **[Bullpen](https://bullpen.fi)**<br>All-in-one non-custodial trading app for tokens, perpetual futures and prediction markets in one interface. | [review →](https://polbots.com/bot/bullpen) |
 | <a href="https://polbots.com/bot/chironus"><img src="https://polbots.com/bots/chironus.com.webp" alt="Chironus — Polymarket bot" width="130"></a> | **[Chironus](https://chironus.com)**<br>Free research and practice site for prediction markets. | [review →](https://polbots.com/bot/chironus) |
 | <a href="https://polbots.com/bot/climate-sight"><img src="https://polbots.com/bots/climatesight.webp" alt="Climate Sight — Polymarket bot" width="130"></a> | **[Climate Sight](https://www.climatesight.app)**<br>Weather analytics for climate prediction markets. | [review →](https://polbots.com/bot/climate-sight) |
