@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 125 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 126 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 125 Bots Compared & Vetted (2026)
+# Polymarket Bots — 126 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-125-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-126-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -12,7 +12,7 @@
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
-Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 24, 2026.
+Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 26, 2026.
 
 <div align="center">
   <a href="https://polbots.com/bot/stepahead"><img src="https://polbots.com/bots/stepaheadpol.com.webp" alt="StepAhead — Editor's Choice: Polymarket bot demo" width="640"></a>
@@ -27,7 +27,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 8
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 65
+- 🧰 [Platforms & Tools](#-platforms--tools) · 66
 - 🗳️ [Politics & Elections](#️-politics--elections) · 5
 - ⚡ [Scalping](#-scalping) · 5
 - 📰 [Sentiment / News](#-sentiment--news) · 14
@@ -173,6 +173,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/based"><img src="https://polbots.com/bots/based.webp" alt="Based — Polymarket bot" width="130"></a> | **[Based](https://based.one)**<br>Crypto trading and spending platform — 'trade everything, spend everywhere.' Bundles a web/desktop/mobile trading terminal, a dedicated prediction-market section and a crypto-to-fiat Visa card accepted at 90M+ merchants, with agentic 'Base… | [review →](https://polbots.com/bot/based) |
 | <a href="https://polbots.com/bot/betmoar"><img src="https://polbots.com/bots/betmoar.fun.webp" alt="Betmoar — Polymarket bot" width="130"></a> | **[Betmoar](https://www.betmoar.fun)**<br>Web trading terminal and Discord bot on top of Polymarket, and the largest third-party interface by Polymarket's own count: rank 1 on the Builders leaderboard, with $2.2B attributed since the program began in October 2025, $137M in August… | [review →](https://polbots.com/bot/betmoar) |
 | <a href="https://polbots.com/bot/boosted-trading"><img src="https://polbots.com/bots/boosted.trading.webp" alt="Boosted Trading — Polymarket bot" width="130"></a> | **[Boosted Trading](https://boosted.trading)**<br>A trading operating system for independent traders. | [review →](https://polbots.com/bot/boosted-trading) |
+| <a href="https://polbots.com/bot/botranked"><img src="https://polbots.com/bots/botranked.com.webp" alt="BotRanked — Polymarket bot" width="130"></a> | **[BotRanked](https://botranked.com)**<br>Free public leaderboard of up to 300 Polymarket wallets that trade like bots, read from Polymarket's own public P&L data rather than from seller screenshots and refreshed every hour. | [review →](https://polbots.com/bot/botranked) |
 | <a href="https://polbots.com/bot/bullpen"><img src="https://polbots.com/bots/bullpen.webp" alt="Bullpen — Polymarket bot" width="130"></a> | **[Bullpen](https://bullpen.fi)**<br>All-in-one non-custodial trading app for tokens, perpetual futures and prediction markets in one interface. | [review →](https://polbots.com/bot/bullpen) |
 | <a href="https://polbots.com/bot/chironus"><img src="https://polbots.com/bots/chironus.com.webp" alt="Chironus — Polymarket bot" width="130"></a> | **[Chironus](https://chironus.com)**<br>Free research and practice site for prediction markets. | [review →](https://polbots.com/bot/chironus) |
 | <a href="https://polbots.com/bot/climate-sight"><img src="https://polbots.com/bots/climatesight.webp" alt="Climate Sight — Polymarket bot" width="130"></a> | **[Climate Sight](https://www.climatesight.app)**<br>Weather analytics for climate prediction markets. | [review →](https://polbots.com/bot/climate-sight) |
