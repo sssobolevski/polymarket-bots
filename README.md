@@ -1,18 +1,18 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 129 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 132 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 129 Bots Compared & Vetted (2026)
+# Polymarket Bots — 132 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-129-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-132-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
-[![Updated](https://img.shields.io/badge/updated-Oct%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
+[![Updated](https://img.shields.io/badge/updated-Nov%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2ea44f?style=flat-square)](CONTRIBUTING.md)
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
-Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Oct 31, 2026.
+Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Nov 2, 2026.
 
 <div align="center">
   <a href="https://polbots.com/bot/stepahead"><img src="https://polbots.com/bots/stepaheadpol.com.webp" alt="StepAhead — Editor's Choice: Polymarket bot demo" width="640"></a>
@@ -21,13 +21,13 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 
 ## Contents
 
-- ⚖️ [Arbitrage](#️-arbitrage) · 12
-- 👥 [Copy Trading](#-copy-trading) · 34
+- ⚖️ [Arbitrage](#️-arbitrage) · 14
+- 👥 [Copy Trading](#-copy-trading) · 35
 - 🪙 [Crypto Markets](#-crypto-markets) · 18
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 8
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 68
+- 🧰 [Platforms & Tools](#-platforms--tools) · 70
 - 🗳️ [Politics & Elections](#️-politics--elections) · 5
 - ⚡ [Scalping](#-scalping) · 5
 - 📰 [Sentiment / News](#-sentiment--news) · 14
@@ -45,6 +45,8 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | Preview | Bot | Review |
 |:---:|:---|:---:|
 | <a href="https://polbots.com/bot/polymtradebot"><img src="https://polbots.com/bots/polymtradebot.webp" alt="PolymTradeBot — Polymarket bot" width="130"></a> | ⭐ **[PolymTradeBot](https://polymtradebot.com)** `Editor's Choice`<br>Automated Python bot for Polymarket's 5- and 15-minute Bitcoin & Ethereum up/down markets. | [review →](https://polbots.com/bot/polymtradebot) |
+| <a href="https://polbots.com/bot/arbbets"><img src="https://polbots.com/bots/getarbitragebets.com.webp" alt="ArbBets — Polymarket bot" width="130"></a> | **[ArbBets](https://getarbitragebets.com)**<br>Arbitrage scanner and data feed for prediction markets and sportsbooks. | [review →](https://polbots.com/bot/arbbets) |
+| <a href="https://polbots.com/bot/arbedge"><img src="https://polbots.com/bots/arbedge.bet.webp" alt="ArbEdge — Polymarket bot" width="130"></a> | **[ArbEdge](https://arbedge.bet)**<br>Polymarket × Kalshi arbitrage scanner. | [review →](https://polbots.com/bot/arbedge) |
 | <a href="https://polbots.com/bot/arbitradepro"><img src="https://polbots.com/bots/arbitradepro.webp" alt="ArbiTrade Pro — Polymarket bot" width="130"></a> | **[ArbiTrade Pro](https://www.arbitradepro.com)**<br>Web-based automated arbitrage platform for prediction markets. | [review →](https://polbots.com/bot/arbitradepro) |
 | <a href="https://polbots.com/bot/arbitrage-agent"><img src="https://polbots.com/bots/arbitrage-agent.com.webp" alt="Arbitrage Agent — Polymarket bot" width="130"></a> | **[Arbitrage Agent](https://arbitrage-agent.com)**<br>Arbitrage scanner for the same event on Kalshi and Polymarket. | [review →](https://polbots.com/bot/arbitrage-agent) |
 | <a href="https://polbots.com/bot/cloddsbot"><img src="https://polbots.com/bots/cloddsbot.com.webp" alt="CloddsBot — Polymarket bot" width="130"></a> | **[CloddsBot](https://www.cloddsbot.com)** `open-source`<br>Open-source AI trading agent that runs on your own machine and takes orders in natural language over Telegram, Discord, WebChat and eighteen other channels. | [review →](https://polbots.com/bot/cloddsbot) |
@@ -87,6 +89,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/polytrack"><img src="https://polbots.com/bots/polytrackhq.webp" alt="PolyTrack — Polymarket bot" width="130"></a> | **[PolyTrack](https://www.polytrackhq.app)**<br>Polymarket whale tracker and copy-trading platform. | [review →](https://polbots.com/bot/polytrack) |
 | <a href="https://polbots.com/bot/polytraderbot"><img src="https://polbots.com/bots/polytraderbot.com.webp" alt="PolyTraderBot — Polymarket bot" width="130"></a> | **[PolyTraderBot](https://www.polytraderbot.com)**<br>Six self-hosted Polymarket bots from one developer, sold separately at $10 a month each and delivered as full source with a browser dashboard, tests and a Docker setup for your own PC or VPS. | [review →](https://polbots.com/bot/polytraderbot) |
 | <a href="https://polbots.com/bot/polytrak"><img src="https://polbots.com/bots/polytrak.webp" alt="PolyTrak — Polymarket bot" width="130"></a> | **[PolyTrak](https://www.polytrak.io)**<br>AI-powered Polymarket trader analysis and copy-trading optimizer. | [review →](https://polbots.com/bot/polytrak) |
+| <a href="https://polbots.com/bot/polyvexa"><img src="https://polbots.com/bots/polyvexa.io.webp" alt="PolyVexa — Polymarket bot" width="130"></a> | **[PolyVexa](https://www.polyvexa.io)**<br>Polymarket copy-trading service built around a paper stage. | [review →](https://polbots.com/bot/polyvexa) |
 | <a href="https://polbots.com/bot/polyvision"><img src="https://polbots.com/bots/polyvisionx.webp" alt="Polyvision — Polymarket bot" width="130"></a> | **[Polyvision](https://polyvisionx.com)**<br>Copy-trading analytics for Polymarket. | [review →](https://polbots.com/bot/polyvision) |
 | <a href="https://polbots.com/bot/polywin"><img src="https://polbots.com/bots/polywin.bot.webp" alt="PolyWin — Polymarket bot" width="130"></a> | **[PolyWin](https://polywin.bot)**<br>Telegram bot that puts the whole Polymarket workflow in one chat: copy trading, two snipers, backtests and AI trader discovery. | [review →](https://polbots.com/bot/polywin) |
 | <a href="https://polbots.com/bot/predictengine"><img src="https://polbots.com/bots/predictengine.ai.webp" alt="PredictEngine — Polymarket bot" width="130"></a> | **[PredictEngine](https://www.predictengine.ai)**<br>No-code bot builder that hosts and runs Polymarket strategies for you. | [review →](https://polbots.com/bot/predictengine) |
@@ -171,6 +174,8 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/airavat"><img src="https://polbots.com/bots/airavat.webp" alt="Airavat — Polymarket bot" width="130"></a> | **[Airavat](https://www.airavat.xyz)**<br>Capital allocation and portfolio construction for prediction markets. | [review →](https://polbots.com/bot/airavat) |
 | <a href="https://polbots.com/bot/almanac"><img src="https://polbots.com/bots/almanac.market.webp" alt="Almanac — Polymarket bot" width="130"></a> | **[Almanac](https://almanac.market)**<br>Prediction market that pays for being right early. | [review →](https://polbots.com/bot/almanac) |
 | <a href="https://polbots.com/bot/alphascope"><img src="https://polbots.com/bots/alphascope.webp" alt="Alphascope — Polymarket bot" width="130"></a> | **[Alphascope](https://www.alphascope.app)**<br>AI research workspace for prediction markets across Polymarket, Kalshi, Manifold and Opinion. | [review →](https://polbots.com/bot/alphascope) |
+| <a href="https://polbots.com/bot/arbbets"><img src="https://polbots.com/bots/getarbitragebets.com.webp" alt="ArbBets — Polymarket bot" width="130"></a> | **[ArbBets](https://getarbitragebets.com)**<br>Arbitrage scanner and data feed for prediction markets and sportsbooks. | [review →](https://polbots.com/bot/arbbets) |
+| <a href="https://polbots.com/bot/arbedge"><img src="https://polbots.com/bots/arbedge.bet.webp" alt="ArbEdge — Polymarket bot" width="130"></a> | **[ArbEdge](https://arbedge.bet)**<br>Polymarket × Kalshi arbitrage scanner. | [review →](https://polbots.com/bot/arbedge) |
 | <a href="https://polbots.com/bot/arbitrage-agent"><img src="https://polbots.com/bots/arbitrage-agent.com.webp" alt="Arbitrage Agent — Polymarket bot" width="130"></a> | **[Arbitrage Agent](https://arbitrage-agent.com)**<br>Arbitrage scanner for the same event on Kalshi and Polymarket. | [review →](https://polbots.com/bot/arbitrage-agent) |
 | <a href="https://polbots.com/bot/aura"><img src="https://polbots.com/bots/aura.webp" alt="Aura — Polymarket bot" width="130"></a> | **[Aura](https://aura.money)**<br>Unified trading app for Polymarket prediction markets and Hyperliquid derivatives in one interface. | [review →](https://polbots.com/bot/aura) |
 | <a href="https://polbots.com/bot/based"><img src="https://polbots.com/bots/based.webp" alt="Based — Polymarket bot" width="130"></a> | **[Based](https://based.one)**<br>Crypto trading and spending platform — 'trade everything, spend everywhere.' Bundles a web/desktop/mobile trading terminal, a dedicated prediction-market section and a crypto-to-fiat Visa card accepted at 90M+ merchants, with agentic 'Base… | [review →](https://polbots.com/bot/based) |
