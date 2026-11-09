@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 141 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 142 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 141 Bots Compared & Vetted (2026)
+# Polymarket Bots — 142 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-141-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-142-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Nov%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -27,12 +27,12 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 9
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 77
+- 🧰 [Platforms & Tools](#-platforms--tools) · 78
 - 🗳️ [Politics & Elections](#️-politics--elections) · 5
 - ⚡ [Scalping](#-scalping) · 6
 - 📰 [Sentiment / News](#-sentiment--news) · 14
 - 🎯 [Sniping](#-sniping) · 4
-- 🏆 [Sports Trading](#-sports-trading) · 6
+- 🏆 [Sports Trading](#-sports-trading) · 7
 - ✈️ [Telegram](#️-telegram) · 22
 - 🌦️ [Weather Markets](#️-weather-markets) · 4
 
@@ -224,6 +224,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/polymarket-analytics"><img src="https://polbots.com/bots/polymarketanalytics.webp" alt="Polymarket Analytics — Polymarket bot" width="130"></a> | **[Polymarket Analytics](https://polymarketanalytics.com)**<br>On-chain analytics and dashboards for Polymarket. | [review →](https://polbots.com/bot/polymarket-analytics) |
 | <a href="https://polbots.com/bot/polymarket-insider-bot"><img src="https://polbots.com/bots/polymarket-insider-bot.webp" alt="Polymarket Insider Bot — Polymarket bot" width="130"></a> | **[Polymarket Insider Bot](https://t.me/polymarketinsiderbot)**<br>Telegram bot for Polymarket insights and whale tracking. | [review →](https://polbots.com/bot/polymarket-insider-bot) |
 | <a href="https://polbots.com/bot/polymarket-markets-data"><img src="https://polbots.com/bots/dune.webp" alt="Polymarket Markets Data — Polymarket bot" width="130"></a> | **[Polymarket Markets Data](https://dune.com/fergmolina/polymarket-markets-data)**<br>Community Dune dashboard that tables every Polymarket event, market and answer — USD volume by month and by day, active-wallet counts, and full drill-down tables — sourced from Polymarket's Gamma API through a materialized view refreshed d… | [review →](https://polbots.com/bot/polymarket-markets-data) |
+| <a href="https://polbots.com/bot/polymarket-tennis"><img src="https://polbots.com/bots/polymarket-tennis.github.webp" alt="polymarket-tennis — Polymarket bot" width="130"></a> | **[polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis)** `open-source`<br>Open-source Python toolkit that lines up Polymarket's tennis markets with the matches they are about. | [review →](https://polbots.com/bot/polymarket-tennis) |
 | <a href="https://polbots.com/bot/polymtrade"><img src="https://polbots.com/bots/polym.trade.webp" alt="Polymtrade — Polymarket bot" width="130"></a> | **[Polymtrade](https://polym.trade)**<br>Dedicated trading terminal for Polymarket. | [review →](https://polbots.com/bot/polymtrade) |
 | <a href="https://polbots.com/bot/polypick"><img src="https://polbots.com/bots/polypick.app.webp" alt="Polypick — Polymarket bot" width="130"></a> | **[Polypick](https://polypick.app)**<br>AI edge-finder for prediction markets. | [review →](https://polbots.com/bot/polypick) |
 | <a href="https://polbots.com/bot/polyradar"><img src="https://polbots.com/bots/polyradar.top.webp" alt="PolyRadar — Polymarket bot" width="130"></a> | **[PolyRadar](https://polyradar.top)**<br>Polymarket alerts in a Telegram bot, @PolyRadarXbot. | [review →](https://polbots.com/bot/polyradar) |
@@ -321,6 +322,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | Preview | Bot | Review |
 |:---:|:---|:---:|
 | <a href="https://polbots.com/bot/oddsfantasy"><img src="https://polbots.com/bots/oddsfantasy.com.webp" alt="OddsFantasy — Polymarket bot" width="130"></a> | **[OddsFantasy](https://oddsfantasy.com/en)**<br>Trading terminal for Polymarket's sports markets that adds the orders Polymarket lacks — take-profit and stop-loss, closes scheduled for kickoff, two-sided quotes — and runs no-code entry and exit rules for you. | [review →](https://polbots.com/bot/oddsfantasy) |
+| <a href="https://polbots.com/bot/polymarket-tennis"><img src="https://polbots.com/bots/polymarket-tennis.github.webp" alt="polymarket-tennis — Polymarket bot" width="130"></a> | **[polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis)** `open-source`<br>Open-source Python toolkit that lines up Polymarket's tennis markets with the matches they are about. | [review →](https://polbots.com/bot/polymarket-tennis) |
 | <a href="https://polbots.com/bot/polymarketalpha"><img src="https://polbots.com/bots/polymarketalpha.webp" alt="PolymarketAlpha — Polymarket bot" width="130"></a> | **[PolymarketAlpha](https://www.polymarketalpha.space/)**<br>Autonomous AI agents that scan, analyze and execute on Polymarket across sports, crypto (5m, 15m, 1h) and weather markets — no manual intervention. | [review →](https://polbots.com/bot/polymarketalpha) |
 | <a href="https://polbots.com/bot/polymm"><img src="https://polbots.com/bots/polymm.github.webp" alt="PolyMM — Polymarket bot" width="130"></a> | **[PolyMM](https://github.com/kachence/polymm)** `open-source`<br>Open-source Python bot for Polymarket's sports and esports markets, released by the person who ran it. | [review →](https://polbots.com/bot/polymm) |
 | <a href="https://polbots.com/bot/polymtrade"><img src="https://polbots.com/bots/polym.trade.webp" alt="Polymtrade — Polymarket bot" width="130"></a> | **[Polymtrade](https://polym.trade)**<br>Dedicated trading terminal for Polymarket. | [review →](https://polbots.com/bot/polymtrade) |
