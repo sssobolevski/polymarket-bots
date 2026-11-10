@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 142 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 143 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 142 Bots Compared & Vetted (2026)
+# Polymarket Bots — 143 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-142-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-143-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Nov%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -12,18 +12,18 @@
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
-Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Nov 9, 2026.
+Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Nov 10, 2026.
 
 <div align="center">
-  <a href="https://polbots.com/bot/stepahead"><img src="https://polbots.com/bots/stepaheadpol.com.webp" alt="StepAhead — Editor's Choice: Polymarket bot demo" width="640"></a>
-  <p>⭐ <b>Editor's Choice: <a href="https://stepaheadpol.com">StepAhead</a></b> — Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for $399 once, or for $899 with installation on your server and a…<br><a href="https://polbots.com/bot/stepahead"><b>Watch the demo & read the review →</b></a></p>
+  <a href="https://polbots.com/bot/bosona"><img src="https://polbots.com/bots/bosonapol.com.webp" alt="Bosona — Editor's Choice: Polymarket bot demo" width="640"></a>
+  <p>⭐ <b>Editor's Choice: <a href="https://bosonapol.com">Bosona</a></b> — Self-hosted Python bot for Polymarket's crypto Up or Down markets, sold as full source for $499 once and backed by the public Polymarket account its seller runs it on, @…<br><a href="https://polbots.com/bot/bosona"><b>Watch the demo & read the review →</b></a></p>
 </div>
 
 ## Contents
 
 - ⚖️ [Arbitrage](#️-arbitrage) · 15
 - 👥 [Copy Trading](#-copy-trading) · 39
-- 🪙 [Crypto Markets](#-crypto-markets) · 21
+- 🪙 [Crypto Markets](#-crypto-markets) · 22
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 9
 - 🚀 [Momentum](#-momentum) · 6
@@ -112,6 +112,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 
 | Preview | Bot | Review |
 |:---:|:---|:---:|
+| <a href="https://polbots.com/bot/bosona"><img src="https://polbots.com/bots/bosonapol.com.webp" alt="Bosona — Polymarket bot" width="130"></a> | ⭐ **[Bosona](https://bosonapol.com)** `Editor's Choice`<br>Self-hosted Python bot for Polymarket's crypto Up or Down markets, sold as full source for $499 once and backed by the public Polymarket account its seller runs it on, @bosona. | [review →](https://polbots.com/bot/bosona) |
 | <a href="https://polbots.com/bot/goodfallen"><img src="https://polbots.com/bots/goodfallen.com.webp" alt="GoodFallen — Polymarket bot" width="130"></a> | ⭐ **[GoodFallen](https://goodfallen.com)** `Editor's Choice`<br>Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for $399 once and backed by the public Polymarket account its seller runs it on, @GoodFallen. | [review →](https://polbots.com/bot/goodfallen) |
 | <a href="https://polbots.com/bot/polymtradebot"><img src="https://polbots.com/bots/polymtradebot.webp" alt="PolymTradeBot — Polymarket bot" width="130"></a> | ⭐ **[PolymTradeBot](https://polymtradebot.com)** `Editor's Choice`<br>Automated Python bot for Polymarket's 5- and 15-minute Bitcoin & Ethereum up/down markets. | [review →](https://polbots.com/bot/polymtradebot) |
 | <a href="https://polbots.com/bot/stepahead"><img src="https://polbots.com/bots/stepaheadpol.com.webp" alt="StepAhead — Polymarket bot" width="130"></a> | ⭐ **[StepAhead](https://stepaheadpol.com)** `Editor's Choice`<br>Self-hosted Python bot for Polymarket's 5- and 15-minute crypto Up or Down windows, sold as full source for $399 once, or for $899 with installation on your server and a private monitoring dashboard. | [review →](https://polbots.com/bot/stepahead) |
