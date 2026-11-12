@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 146 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 147 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 146 Bots Compared & Vetted (2026)
+# Polymarket Bots — 147 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-146-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-147-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Nov%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -23,7 +23,7 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 
 - ⚖️ [Arbitrage](#️-arbitrage) · 15
 - 👥 [Copy Trading](#-copy-trading) · 41
-- 🪙 [Crypto Markets](#-crypto-markets) · 22
+- 🪙 [Crypto Markets](#-crypto-markets) · 23
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 9
 - 🚀 [Momentum](#-momentum) · 6
@@ -136,6 +136,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/pulse-market"><img src="https://polbots.com/bots/pulsemarket.trade.webp" alt="Pulse Market — Polymarket bot" width="130"></a> | **[Pulse Market](https://pulsemarket.trade/en)**<br>Web terminal for Polymarket's own markets and order books, built around the way in and the record after rather than any strategy: sign in with an email code or Google, fund a Polygon trading account with USDC or USDT from six networks from… | [review →](https://polbots.com/bot/pulse-market) |
 | <a href="https://polbots.com/bot/spectraledge"><img src="https://polbots.com/bots/spectralbot.cotes.ai.webp" alt="SpectralEdge — Polymarket bot" width="130"></a> | **[SpectralEdge](https://spectralbot.cotes.ai)**<br>Signal service for Kalshi's Bitcoin 15-minute markets, from Cotes AI, Inc. | [review →](https://polbots.com/bot/spectraledge) |
 | <a href="https://polbots.com/bot/uruguabot"><img src="https://polbots.com/bots/uruguabot.com.webp" alt="Uruguabot — Polymarket bot" width="130"></a> | **[Uruguabot](https://uruguabot.com)**<br>Self-hosted Python bot for Polymarket's 5-minute BTC and ETH up/down markets, sold with its complete live trading record — losses included. | [review →](https://polbots.com/bot/uruguabot) |
+| <a href="https://polbots.com/bot/zcl-bot"><img src="https://polbots.com/bots/zcl-bot.webp" alt="ZCL Bot — Polymarket bot" width="130"></a> | **[ZCL Bot](https://kxieflare.gumroad.com/l/zcl-bot)**<br>Self-hosted TypeScript bot for Polymarket's 5-minute crypto Up or Down markets on Bitcoin, Ethereum and Solana, sold on Gumroad as full source for $99 once. | [review →](https://polbots.com/bot/zcl-bot) |
 
 ## 🛡️ Hedging
 
