@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 147 bots compared on POLBOTS" width="100%"></a>
+  <a href="https://polbots.com"><img src="https://polbots.com/opengraph-image" alt="Polymarket Bots — 150 bots compared on POLBOTS" width="100%"></a>
 </div>
 
-# Polymarket Bots — 147 Bots Compared & Vetted (2026)
+# Polymarket Bots — 150 Bots Compared & Vetted (2026)
 
-[![Bots](https://img.shields.io/badge/bots-147-1f6feb?style=flat-square)](https://polbots.com)
+[![Bots](https://img.shields.io/badge/bots-150-1f6feb?style=flat-square)](https://polbots.com)
 [![Categories](https://img.shields.io/badge/categories-14-8957e5?style=flat-square)](#contents)
 [![Updated](https://img.shields.io/badge/updated-Nov%202026-2ea44f?style=flat-square)](https://github.com/sssobolevski/polymarket-bots/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-555?style=flat-square)](LICENSE)
@@ -12,7 +12,7 @@
 
 > The big curated list of Polymarket bots — copy trading, arbitrage, market making, sniping, sports and politics bots, Telegram bots and AI agents. Every entry is vetted by hand before it is listed: we open the product, probe what is behind the marketing page, and decline landings with nothing behind them.
 
-Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Nov 12, 2026.
+Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catalog, and each row links the bot's own site plus its `review` page with pricing, gallery and vetting notes. ⭐ marks the catalog's current Editor's Choice; `open-source` marks bots whose full source is public under an open licence ([shortlist](https://polbots.com/bots/open-source)); the bots built for the 5- and 15-minute BTC up/down markets have their own [shortlist](https://polbots.com/bots/btc-15-minute). Performance figures are whatever the author publishes and are not independently verified. Last updated Nov 13, 2026.
 
 <div align="center">
   <a href="https://polbots.com/bot/bosona"><img src="https://polbots.com/bots/bosonapol.com.webp" alt="Bosona — Editor's Choice: Polymarket bot demo" width="640"></a>
@@ -22,18 +22,18 @@ Maintained by [POLBOTS](https://polbots.com) — screenshots come from the catal
 ## Contents
 
 - ⚖️ [Arbitrage](#️-arbitrage) · 15
-- 👥 [Copy Trading](#-copy-trading) · 41
+- 👥 [Copy Trading](#-copy-trading) · 44
 - 🪙 [Crypto Markets](#-crypto-markets) · 23
 - 🛡️ [Hedging](#️-hedging) · 3
 - 📊 [Market Making](#-market-making) · 9
 - 🚀 [Momentum](#-momentum) · 6
-- 🧰 [Platforms & Tools](#-platforms--tools) · 81
+- 🧰 [Platforms & Tools](#-platforms--tools) · 84
 - 🗳️ [Politics & Elections](#️-politics--elections) · 5
 - ⚡ [Scalping](#-scalping) · 6
 - 📰 [Sentiment / News](#-sentiment--news) · 14
 - 🎯 [Sniping](#-sniping) · 4
-- 🏆 [Sports Trading](#-sports-trading) · 7
-- ✈️ [Telegram](#️-telegram) · 23
+- 🏆 [Sports Trading](#-sports-trading) · 8
+- ✈️ [Telegram](#️-telegram) · 25
 - 🌦️ [Weather Markets](#️-weather-markets) · 4
 
 Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#declined-landing-page-networks) · 🤝 [Contributing](#contributing)
@@ -91,6 +91,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/polygun"><img src="https://polbots.com/bots/polygun.xyz.webp" alt="PolyGun — Polymarket bot" width="130"></a> | **[PolyGun](https://polygun.xyz)**<br>Telegram bot for trading Polymarket without a browser: browse markets, buy and sell instantly, set limit orders, copy wallets and track the portfolio from one chat. | [review →](https://polbots.com/bot/polygun) |
 | <a href="https://polbots.com/bot/polymarketscan"><img src="https://polbots.com/bots/polymarketscan.webp" alt="PolymarketScan — Polymarket bot" width="130"></a> | **[PolymarketScan](https://polymarketscan.org)**<br>Real-time analytics and whale tracking for Polymarket. | [review →](https://polbots.com/bot/polymarketscan) |
 | <a href="https://polbots.com/bot/polypick"><img src="https://polbots.com/bots/polypick.app.webp" alt="Polypick — Polymarket bot" width="130"></a> | **[Polypick](https://polypick.app)**<br>AI edge-finder for prediction markets. | [review →](https://polbots.com/bot/polypick) |
+| <a href="https://polbots.com/bot/polyscope"><img src="https://polbots.com/bots/polyscope.pro.webp" alt="PolyScope — Polymarket bot" width="130"></a> | **[PolyScope](https://polyscope.pro/smart-money/)**<br>Free “Smart Money Dossier” on a Polymarket news and research site. | [review →](https://polbots.com/bot/polyscope) |
 | <a href="https://polbots.com/bot/polyspect"><img src="https://polbots.com/bots/polyspect.webp" alt="Polyspect — Polymarket bot" width="130"></a> | **[Polyspect](https://polyspect.net)**<br>Copy-trading research platform for Polymarket. | [review →](https://polbots.com/bot/polyspect) |
 | <a href="https://polbots.com/bot/polytrack"><img src="https://polbots.com/bots/polytrackhq.webp" alt="PolyTrack — Polymarket bot" width="130"></a> | **[PolyTrack](https://www.polytrackhq.app)**<br>Polymarket whale tracker and copy-trading platform. | [review →](https://polbots.com/bot/polytrack) |
 | <a href="https://polbots.com/bot/polytraderbot"><img src="https://polbots.com/bots/polytraderbot.com.webp" alt="PolyTraderBot — Polymarket bot" width="130"></a> | **[PolyTraderBot](https://www.polytraderbot.com)**<br>Six self-hosted Polymarket bots from one developer, sold separately at $10 a month each and delivered as full source with a browser dashboard, tests and a Docker setup for your own PC or VPS. | [review →](https://polbots.com/bot/polytraderbot) |
@@ -102,8 +103,10 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/predictengine"><img src="https://polbots.com/bots/predictengine.ai.webp" alt="PredictEngine — Polymarket bot" width="130"></a> | **[PredictEngine](https://www.predictengine.ai)**<br>No-code bot builder that hosts and runs Polymarket strategies for you. | [review →](https://polbots.com/bot/predictengine) |
 | <a href="https://polbots.com/bot/predictify"><img src="https://polbots.com/bots/predictify.webp" alt="Predictify — Polymarket bot" width="130"></a> | **[Predictify](https://t.me/Predictify_bot)**<br>Full-featured Polymarket bot for Telegram. | [review →](https://polbots.com/bot/predictify) |
 | <a href="https://polbots.com/bot/prediedge"><img src="https://polbots.com/bots/prediedge.webp" alt="PrediEdge — Polymarket bot" width="130"></a> | **[PrediEdge](https://app.prediedge.com)**<br>Real-time whale tracker for Polymarket. | [review →](https://polbots.com/bot/prediedge) |
+| <a href="https://polbots.com/bot/prognosx"><img src="https://polbots.com/bots/prognosx.com.webp" alt="PrognosX — Polymarket bot" width="130"></a> | **[PrognosX](https://prognosx.com)**<br>Sports-only Polymarket whale tracker shown like a sportsbook, with decimal odds, handicaps and totals. | [review →](https://polbots.com/bot/prognosx) |
 | <a href="https://polbots.com/bot/ratio"><img src="https://polbots.com/bots/ratio.you.webp" alt="Ratio — Polymarket bot" width="130"></a> | **[Ratio](https://ratio.you)**<br>Social prediction-market app for iOS and Android built around copying Polymarket traders. | [review →](https://polbots.com/bot/ratio) |
 | <a href="https://polbots.com/bot/shadow-markets"><img src="https://polbots.com/bots/shadowmarkets.webp" alt="Shadow Markets — Polymarket bot" width="130"></a> | **[Shadow Markets](https://www.shadowmarkets.app)**<br>Copy-trading platform for prediction markets across Polymarket and Kalshi. | [review →](https://polbots.com/bot/shadow-markets) |
+| <a href="https://polbots.com/bot/trueodds"><img src="https://polbots.com/bots/trueodds.win.webp" alt="TrueOdds — Polymarket bot" width="130"></a> | **[TrueOdds](https://www.trueodds.win)**<br>Polymarket signal and research site sold as one $29-a-month subscription. | [review →](https://polbots.com/bot/trueodds) |
 | <a href="https://polbots.com/bot/virae-ai"><img src="https://polbots.com/bots/virae.ai.webp" alt="Virae AI — Polymarket bot" width="130"></a> | **[Virae AI](https://www.virae.ai/)**<br>AI trading terminal for Polymarket, in private beta: market discovery with live trending topics and order-book prices, a whale leaderboard ranking tracked wallets by PnL, volume, win rate and Sharpe with one-click copy tasks, and seven tra… | [review →](https://polbots.com/bot/virae-ai) |
 | <a href="https://polbots.com/bot/whalesight"><img src="https://polbots.com/bots/whalesight.webp" alt="Whalesight — Polymarket bot" width="130"></a> | **[Whalesight](https://whalesight.xyz)**<br>Real-time whale-tracking intelligence for Polymarket. | [review →](https://polbots.com/bot/whalesight) |
 | <a href="https://polbots.com/bot/whalidate"><img src="https://polbots.com/bots/whalidate.com.webp" alt="Whalidate — Polymarket bot" width="130"></a> | **[Whalidate](https://whalidate.com)**<br>Copy trading for Polymarket that checks how a wallet made its money before you follow it. | [review →](https://polbots.com/bot/whalidate) |
@@ -235,6 +238,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/polymtrade"><img src="https://polbots.com/bots/polym.trade.webp" alt="Polymtrade — Polymarket bot" width="130"></a> | **[Polymtrade](https://polym.trade)**<br>Dedicated trading terminal for Polymarket. | [review →](https://polbots.com/bot/polymtrade) |
 | <a href="https://polbots.com/bot/polypick"><img src="https://polbots.com/bots/polypick.app.webp" alt="Polypick — Polymarket bot" width="130"></a> | **[Polypick](https://polypick.app)**<br>AI edge-finder for prediction markets. | [review →](https://polbots.com/bot/polypick) |
 | <a href="https://polbots.com/bot/polyradar"><img src="https://polbots.com/bots/polyradar.top.webp" alt="PolyRadar — Polymarket bot" width="130"></a> | **[PolyRadar](https://polyradar.top)**<br>Polymarket alerts in a Telegram bot, @PolyRadarXbot. | [review →](https://polbots.com/bot/polyradar) |
+| <a href="https://polbots.com/bot/polyscope"><img src="https://polbots.com/bots/polyscope.pro.webp" alt="PolyScope — Polymarket bot" width="130"></a> | **[PolyScope](https://polyscope.pro/smart-money/)**<br>Free “Smart Money Dossier” on a Polymarket news and research site. | [review →](https://polbots.com/bot/polyscope) |
 | <a href="https://polbots.com/bot/polyscreener"><img src="https://polbots.com/bots/polyscreener.webp" alt="PolyScreener — Polymarket bot" width="130"></a> | **[PolyScreener](https://polyscreener.app)**<br>Real-time market screener for prediction markets. | [review →](https://polbots.com/bot/polyscreener) |
 | <a href="https://polbots.com/bot/polysights"><img src="https://polbots.com/bots/polysights.webp" alt="Polysights — Polymarket bot" width="130"></a> | **[Polysights](https://www.polysights.xyz)**<br>Prediction-market intelligence platform for Polymarket. | [review →](https://polbots.com/bot/polysights) |
 | <a href="https://polbots.com/bot/polytragent"><img src="https://polbots.com/bots/polytragent.webp" alt="Polytragent — Polymarket bot" width="130"></a> | **[Polytragent](https://polytragent.com)**<br>AI research agent for Polymarket. | [review →](https://polbots.com/bot/polytragent) |
@@ -252,6 +256,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/predikt"><img src="https://polbots.com/bots/predikt.webp" alt="Predikt — Polymarket bot" width="130"></a> | **[Predikt](https://predikt.gg)**<br>DeFi infrastructure protocol that unifies prediction markets into one layer. | [review →](https://polbots.com/bot/predikt) |
 | <a href="https://polbots.com/bot/predmart"><img src="https://polbots.com/bots/predmart.webp" alt="PredMart — Polymarket bot" width="130"></a> | **[PredMart](https://predmart.com)**<br>Margin account for prediction markets. | [review →](https://polbots.com/bot/predmart) |
 | <a href="https://polbots.com/bot/probsee"><img src="https://polbots.com/bots/probsee.webp" alt="Probsee — Polymarket bot" width="130"></a> | **[Probsee](https://probsee.com)**<br>Probability and odds analytics for prediction markets. | [review →](https://polbots.com/bot/probsee) |
+| <a href="https://polbots.com/bot/prognosx"><img src="https://polbots.com/bots/prognosx.com.webp" alt="PrognosX — Polymarket bot" width="130"></a> | **[PrognosX](https://prognosx.com)**<br>Sports-only Polymarket whale tracker shown like a sportsbook, with decimal odds, handicaps and totals. | [review →](https://polbots.com/bot/prognosx) |
 | <a href="https://polbots.com/bot/prophed"><img src="https://polbots.com/bots/prophed.webp" alt="Prophed — Polymarket bot" width="130"></a> | **[Prophed](https://prophed.com/world-cup-billionaire)**<br>Prediction-market aggregator that lets you trade Polymarket, Kalshi and predict.fun from a single interface. | [review →](https://polbots.com/bot/prophed) |
 | <a href="https://polbots.com/bot/pulse-market"><img src="https://polbots.com/bots/pulsemarket.trade.webp" alt="Pulse Market — Polymarket bot" width="130"></a> | **[Pulse Market](https://pulsemarket.trade/en)**<br>Web terminal for Polymarket's own markets and order books, built around the way in and the record after rather than any strategy: sign in with an email code or Google, fund a Polygon trading account with USDC or USDT from six networks from… | [review →](https://polbots.com/bot/pulse-market) |
 | <a href="https://polbots.com/bot/ratio"><img src="https://polbots.com/bots/ratio.you.webp" alt="Ratio — Polymarket bot" width="130"></a> | **[Ratio](https://ratio.you)**<br>Social prediction-market app for iOS and Android built around copying Polymarket traders. | [review →](https://polbots.com/bot/ratio) |
@@ -261,6 +266,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/thisishowiwin"><img src="https://polbots.com/bots/thisishowiwin.webp" alt="This Is How I Win — Polymarket bot" width="130"></a> | **[This Is How I Win](https://thisishowiwin.com)**<br>Community platform for prediction-market ideas. | [review →](https://polbots.com/bot/thisishowiwin) |
 | <a href="https://polbots.com/bot/traderline"><img src="https://polbots.com/bots/traderline.webp" alt="Traderline — Polymarket bot" width="130"></a> | **[Traderline](https://traderline.com)**<br>Professional trading software for prediction markets and betting exchanges. | [review →](https://polbots.com/bot/traderline) |
 | <a href="https://polbots.com/bot/trepa"><img src="https://polbots.com/bots/trepa.io.webp" alt="Trepa — Polymarket bot" width="130"></a> | **[Trepa](https://trepa.io)**<br>Precision-prediction game on Solana. | [review →](https://polbots.com/bot/trepa) |
+| <a href="https://polbots.com/bot/trueodds"><img src="https://polbots.com/bots/trueodds.win.webp" alt="TrueOdds — Polymarket bot" width="130"></a> | **[TrueOdds](https://www.trueodds.win)**<br>Polymarket signal and research site sold as one $29-a-month subscription. | [review →](https://polbots.com/bot/trueodds) |
 | <a href="https://polbots.com/bot/turbine"><img src="https://polbots.com/bots/turbinefi.webp" alt="Turbine — Polymarket bot" width="130"></a> | **[Turbine](https://www.turbinefi.com)**<br>Build, backtest and deploy automated prediction-market strategies in plain English — no code. | [review →](https://polbots.com/bot/turbine) |
 | <a href="https://polbots.com/bot/virae-ai"><img src="https://polbots.com/bots/virae.ai.webp" alt="Virae AI — Polymarket bot" width="130"></a> | **[Virae AI](https://www.virae.ai/)**<br>AI trading terminal for Polymarket, in private beta: market discovery with live trending topics and order-book prices, a whale leaderboard ranking tracked wallets by PnL, volume, win rate and Sharpe with one-click copy tasks, and seven tra… | [review →](https://polbots.com/bot/virae-ai) |
 | <a href="https://polbots.com/bot/whalidate"><img src="https://polbots.com/bots/whalidate.com.webp" alt="Whalidate — Polymarket bot" width="130"></a> | **[Whalidate](https://whalidate.com)**<br>Copy trading for Polymarket that checks how a wallet made its money before you follow it. | [review →](https://polbots.com/bot/whalidate) |
@@ -334,6 +340,7 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/polymm"><img src="https://polbots.com/bots/polymm.github.webp" alt="PolyMM — Polymarket bot" width="130"></a> | **[PolyMM](https://github.com/kachence/polymm)** `open-source`<br>Open-source Python bot for Polymarket's sports and esports markets, released by the person who ran it. | [review →](https://polbots.com/bot/polymm) |
 | <a href="https://polbots.com/bot/polymtrade"><img src="https://polbots.com/bots/polym.trade.webp" alt="Polymtrade — Polymarket bot" width="130"></a> | **[Polymtrade](https://polym.trade)**<br>Dedicated trading terminal for Polymarket. | [review →](https://polbots.com/bot/polymtrade) |
 | <a href="https://polbots.com/bot/predicts-guru"><img src="https://polbots.com/bots/predicts.guru.webp" alt="Predicts.guru — Polymarket bot" width="130"></a> | **[Predicts.guru](https://www.predicts.guru)**<br>Free Polymarket analytics site built around a wallet checker. | [review →](https://polbots.com/bot/predicts-guru) |
+| <a href="https://polbots.com/bot/prognosx"><img src="https://polbots.com/bots/prognosx.com.webp" alt="PrognosX — Polymarket bot" width="130"></a> | **[PrognosX](https://prognosx.com)**<br>Sports-only Polymarket whale tracker shown like a sportsbook, with decimal odds, handicaps and totals. | [review →](https://polbots.com/bot/prognosx) |
 | <a href="https://polbots.com/bot/pulse-market"><img src="https://polbots.com/bots/pulsemarket.trade.webp" alt="Pulse Market — Polymarket bot" width="130"></a> | **[Pulse Market](https://pulsemarket.trade/en)**<br>Web terminal for Polymarket's own markets and order books, built around the way in and the record after rather than any strategy: sign in with an email code or Google, fund a Polygon trading account with USDC or USDT from six networks from… | [review →](https://polbots.com/bot/pulse-market) |
 
 ## ✈️ Telegram
@@ -364,6 +371,8 @@ Also: 🔍 [How we vet](#how-we-vet) · 🚫 [Declined: landing-page networks](#
 | <a href="https://polbots.com/bot/polywin"><img src="https://polbots.com/bots/polywin.bot.webp" alt="PolyWin — Polymarket bot" width="130"></a> | **[PolyWin](https://polywin.bot)**<br>Telegram bot that puts the whole Polymarket workflow in one chat: copy trading, two snipers, backtests and AI trader discovery. | [review →](https://polbots.com/bot/polywin) |
 | <a href="https://polbots.com/bot/polyxbot"><img src="https://polbots.com/bots/polyxbot.webp" alt="PolyXbot — Polymarket bot" width="130"></a> | **[PolyXbot](https://www.polyxbot.org)**<br>Telegram bot for trading Polymarket without leaving the chat. | [review →](https://polbots.com/bot/polyxbot) |
 | <a href="https://polbots.com/bot/predictify"><img src="https://polbots.com/bots/predictify.webp" alt="Predictify — Polymarket bot" width="130"></a> | **[Predictify](https://t.me/Predictify_bot)**<br>Full-featured Polymarket bot for Telegram. | [review →](https://polbots.com/bot/predictify) |
+| <a href="https://polbots.com/bot/prognosx"><img src="https://polbots.com/bots/prognosx.com.webp" alt="PrognosX — Polymarket bot" width="130"></a> | **[PrognosX](https://prognosx.com)**<br>Sports-only Polymarket whale tracker shown like a sportsbook, with decimal odds, handicaps and totals. | [review →](https://polbots.com/bot/prognosx) |
+| <a href="https://polbots.com/bot/trueodds"><img src="https://polbots.com/bots/trueodds.win.webp" alt="TrueOdds — Polymarket bot" width="130"></a> | **[TrueOdds](https://www.trueodds.win)**<br>Polymarket signal and research site sold as one $29-a-month subscription. | [review →](https://polbots.com/bot/trueodds) |
 | <a href="https://polbots.com/bot/virae-ai"><img src="https://polbots.com/bots/virae.ai.webp" alt="Virae AI — Polymarket bot" width="130"></a> | **[Virae AI](https://www.virae.ai/)**<br>AI trading terminal for Polymarket, in private beta: market discovery with live trending topics and order-book prices, a whale leaderboard ranking tracked wallets by PnL, volume, win rate and Sharpe with one-click copy tasks, and seven tra… | [review →](https://polbots.com/bot/virae-ai) |
 
 ## 🌦️ Weather Markets
